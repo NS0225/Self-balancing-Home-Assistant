@@ -35,5 +35,4 @@ Values of kp, ki, kd are experimental(depends on several features like the weigh
 The output is fed to PWM pins of Arduino which controls the speed variation of motors via Motor Driver Module.
 
   For manual movement of the bot, the set-point is manually given by the user using HC-05. To achieve the new set-point the bot moves 
-  
-  forward and backward.
+   forward and backward.
