@@ -23,7 +23,7 @@ Motor Driver Module(L293D)
 
   According to PID equation:
 
-o(t)=kp*e(t) + ki*integral(e(t)) + kd*d/dt(e(t))
+o(t)=kp * e(t) + ki * integral(e(t)) + kd * d/dt(e(t))
 
 where o(t) = output of PID controller
 
