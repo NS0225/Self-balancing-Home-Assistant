@@ -12,8 +12,11 @@ Motor Driver Module(L293D)
 
 2 high-torque motors(>150rpm)
 
+Bluetooth module(HC-05)
+
+
 # Working
-  It is mainly based on PID controller mechanism. If the bot gets tilted, it automatically observes a torque in the opposite direction and 
+  It is mainly based on PID(Proportional Integral Derivative) controller mechanism. If the bot gets tilted, it automatically observes a torque in the opposite direction and 
   
   this makes it to stay in quillibrium position. 
   
